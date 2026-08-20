@@ -1,4 +1,5 @@
-Access Management & Incident Resolution in Enterprise Environments 
+Access Management & Incident Resolution in Enterprise Environments
+
 A look at how identity and access management operates day-to-day in a multinational enterprise environment, based on hands-on experience supporting Active Directory and privileged server access.
 
 Context Over the past 4-5 years, in NOC/infrastructure support roles (Infosys Consulting, SCC Service Romania), I've handled account and access management as a core, recurring responsibility — not a one-off task, but daily operational work supporting hundreds of end users across enterprise environments.
